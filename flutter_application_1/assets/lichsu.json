@@ -1,0 +1,213 @@
+[
+    {
+        "question": "Ai là vị vua đầu tiên của triều Ngô?",
+        "option1": "Ngô Quyền",
+        "option2": "Đinh Tiên Hoàng",
+        "option3": "Lê Lợi",
+        "option4": "Lý Thái Tổ"
+    },
+    {
+        "question": "Cuộc khởi nghĩa nông dân nào nổi tiếng ở Việt Nam vào thế kỷ XIX?",
+        "option1": "Nam Kỳ Khởi Nghĩa",
+        "option2": "Hòa Hảo",
+        "option3": "Cần Vương",
+        "option4": "Yên Bái"
+    },
+    {
+        "question": "Thành phố nào là thủ đô của Việt Nam trong suốt thời kỳ cổ đại?",
+        "option1": "Thăng Long",
+        "option2": "Huế",
+        "option3": "Sài Gòn",
+        "option4": "Hà Nội"
+    },
+    {
+        "question": "Vị vua nào đã đánh bại quân xâm lược của Nguyễn Huệ vào cuối thế kỷ XVIII?",
+        "option1": "Quang Trung",
+        "option2": "Lê Lợi",
+        "option3": "Trần Nhân Tông",
+        "option4": "Lý Thường Kiệt"
+    },
+    {
+        "question": "Cuộc khởi nghĩa nông dân nào nổi tiếng ở Việt Nam vào thế kỷ XX?",
+        "option1": "Đại Việt",
+        "option2": "Yên Bái",
+        "option3": "Hòa Hảo",
+        "option4": "Nam Kỳ Khởi Nghĩa"
+    },
+    {
+        "question": "Ai là người đã thành lập Đại Việt sau khi đánh bại quân Nam Hán?",
+        "option1": "Lý Thường Kiệt",
+        "option2": "Trần Hưng Đạo",
+        "option3": "Nguyễn Huệ",
+        "option4": "Lê Lợi"
+    },
+    {
+        "question": "Vị vua nào được coi là 'vua đánh giặc ngoại xâm, vua dựng nước'?",
+        "option1": "Lý Thái Tổ",
+        "option2": "Trần Nhân Tông",
+        "option3": "Ngô Quyền",
+        "option4": "Lê Lợi"
+    },
+    {
+        "question": "Ai là người sáng lập ra triều đại Hồ?",
+        "option1": "Hồ Quý Ly",
+        "option2": "Hồ Nguyên Trừng",
+        "option3": "Hồ Quảng",
+        "option4": "Hồ Liêu"
+    },
+    {
+        "question": "Thành phố nào được xem là trung tâm văn hóa của Việt Nam thời kỳ Lê - Mạc?",
+        "option1": "Thăng Long",
+        "option2": "Hội An",
+        "option3": "Huế",
+        "option4": "Hà Nội"
+    },
+    {
+        "question": "Ai là vị vua cuối cùng của triều đại Nguyễn?",
+        "option1": "Bảo Đại",
+        "option2": "Tự Đức",
+        "option3": "Thành Thái",
+        "option4": "Duy Tân"
+    },
+    {
+        "question": "Nơi nào được xem là 'làn sóng lịch sử' của Việt Nam?",
+        "option1": "Sông Hồng",
+        "option2": "Sông Cửu Long",
+        "option3": "Sông Hàn",
+        "option4": "Sông Sài Gòn"
+    },
+    {
+        "question": "Cuộc khởi nghĩa nông dân nào nổi tiếng ở Việt Nam vào thế kỷ XI?",
+        "option1": "Cần Vương",
+        "option2": "Hòa Hảo",
+        "option3": "Nam Kỳ Khởi Nghĩa",
+        "option4": "Yên Bái"
+    },
+    {
+        "question": "Thành phố nào là thủ đô của Việt Nam trong thời kỳ Pháp thuộc?",
+        "option1": "Sài Gòn",
+        "option2": "Hà Nội",
+        "option3": "Huế",
+        "option4": "Đà Nẵng"
+    },
+    {
+        "question": "Ai là người đã lập ra triều đại Hùng Vương đầu tiên?",
+        "option1": "Lạc Long Quân",
+        "option2": "Hùng Vương",
+        "option3": "Kinh Dương Vương",
+        "option4": "Âu Cơ"
+    },
+    {
+        "question": "Ai là vị vua cuối cùng của triều đại Lý?",
+        "option1": "Lý Chiêu Hoàng",
+        "option2": "Lý Cao Tông",
+        "option3": "Lý Thái Tổ",
+        "option4": "Lý Huệ Tông"
+    },
+        {
+            "question": "Ai là người sáng lập ra nền văn minh Đông Sơn?",
+            "option1": "Nguyễn Lữ",
+            "option2": "Quang Trung",
+            "option3": "Ngô Quyền",
+            "option4": "Lê Lợi"
+        },
+        {
+            "question": "Ai là vị vua đầu tiên của triều đại nhà Hồ?",
+            "option1": "Hồ Quý Ly",
+            "option2": "Hồ Nguyên Trừng",
+            "option3": "Hồ Hán Thương",
+            "option4": "Hồ Hảo Hớn"
+        },
+        {
+            "question": "Cuộc khởi nghĩa nào chấm dứt triều đại nhà Trần?",
+            "option1": "Cuộc khởi nghĩa Lam Sơn",
+            "option2": "Cuộc khởi nghĩa Tây Sơn",
+            "option3": "Cuộc khởi nghĩa Hồ",
+            "option4": "Cuộc khởi nghĩa Lê Lợi"
+        },
+        {
+            "question": "Ai là người đã dẫn đầu cuộc khởi nghĩa Hai Bà Trưng?",
+            "option1": "Hai Bà Trưng",
+            "option2": "Trưng Trắc",
+            "option3": "Trưng Nhị",
+            "option4": "Lý Bí"
+        },
+        {
+            "question": "Vị vua nào đã cho xây dựng thành phố Thăng Long?",
+            "option1": "Lý Thái Tổ",
+            "option2": "Lê Lợi",
+            "option3": "Lý Thánh Tông",
+            "option4": "Lý Công Uẩn"
+        },
+        {
+            "question": "Ai là người sáng lập ra triều đại nhà Nguyễn?",
+            "option1": "Nguyễn Ánh",
+            "option2": "Nguyễn Huệ",
+            "option3": "Nguyễn Tri Phương",
+            "option4": "Nguyễn Bỉnh Khiêm"
+        },
+        {
+            "question": "Cuộc khởi nghĩa nào chấm dứt triều đại nhà Ngô?",
+            "option1": "Cuộc khởi nghĩa Hồ",
+            "option2": "Cuộc khởi nghĩa Lê Lợi",
+            "option3": "Cuộc khởi nghĩa Tây Sơn",
+            "option4": "Cuộc khởi nghĩa Lam Sơn"
+        },
+        {
+            "question": "Ai là người sáng lập ra triều đại nhà Lê?",
+            "option1": "Lê Thái Tổ",
+            "option2": "Lê Lợi",
+            "option3": "Lê Hoàn",
+            "option4": "Lê Hồng Chương"
+        },
+        {
+            "question": "Thành phố nào đã từng là thủ đô của Đại Việt?",
+            "option1": "Hà Nội",
+            "option2": "Huế",
+            "option3": "Hồ Chí Minh",
+            "option4": "Đà Nẵng"
+        },
+        {
+            "question": "Cuộc khởi nghĩa nào chấm dứt triều đại nhà Lý?",
+            "option1": "Cuộc khởi nghĩa Lý Nam Đế",
+            "option2": "Cuộc khởi nghĩa Tây Sơn",
+            "option3": "Cuộc khởi nghĩa Hồ",
+            "option4": "Cuộc khởi nghĩa Lam Sơn"
+        },
+        {
+            "question": "Ai là người sáng lập ra triều đại nhà Trần?",
+            "option1": "Trần Thái Tông",
+            "option2": "Trần Thánh Tông",
+            "option3": "Trần Nhân Tông",
+            "option4": "Trần Thủ Độ"
+        },
+        {
+            "question": "Cuộc khởi nghĩa nào chấm dứt triều đại nhà Nguyễn?",
+            "option1": "Cuộc khởi nghĩa Tây Sơn",
+            "option2": "Cuộc khởi nghĩa Hồ",
+            "option3": "Cuộc khởi nghĩa Lê Lợi",
+            "option4": "Cuộc khởi nghĩa Lam Sơn"
+        },
+        {
+            "question": "Thành phố nào đã từng là thủ đô của Champa?",
+            "option1": "Đồng Hới",
+            "option2": "Quy Nhơn",
+            "option3": "Huế",
+            "option4": "Nha Trang"
+        },
+        {
+            "question": "Ai là vị vua cuối cùng của triều đại nhà Hùng?",
+            "option1": "Lạc Long Quân",
+            "option2": "Hùng Vương",
+            "option3": "Kinh Dương Vương",
+            "option4": "An Dương Vương"
+        },
+        {
+            "question": "Cuộc khởi nghĩa nào chấm dứt triều đại nhà Mạc?",
+            "option1": "Cuộc khởi nghĩa Lê Lợi",
+            "option2": "Cuộc khởi nghĩa Hồ",
+            "option3": "Cuộc khởi nghĩa Tây Sơn",
+            "option4": "Cuộc khởi nghĩa Lam Sơn"
+        }
+    ]
+    

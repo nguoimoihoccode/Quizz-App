@@ -1,0 +1,213 @@
+[
+    {
+        "question": "Quang phổ của ánh sáng trắng khi đi qua một khe hẹp có màu gì?",
+        "option1": "Quang phổ liên tục",
+        "option2": "Quang phổ phân tán",
+        "option3": "Quang phổ đặc trưng",
+        "option4": "Quang phổ vô cực"
+    },
+    {
+        "question": "Số Avogadro là gì?",
+        "option1": "Số lượng các thành phần hạt nhân trong một mol chất",
+        "option2": "Số mol trong một lít khí ở điều kiện tiêu chuẩn",
+        "option3": "Tổng số proton và neutron trong một mol nguyên tử",
+        "option4": "Tổng số proton trong một mol nguyên tử"
+    },
+    {
+        "question": "Trái đất quay quanh trục của nó mất khoảng bao lâu?",
+        "option1": "24 giờ",
+        "option2": "365 ngày",
+        "option3": "12 tháng",
+        "option4": "60 phút"
+    },
+    {
+        "question": "Đơn vị SI của điện trở là gì?",
+        "option1": "Ohm",
+        "option2": "Volt",
+        "option3": "Ampere",
+        "option4": "Watt"
+    },
+    {
+        "question": "Đơn vị nào dùng để đo độ mặn của nước biển?",
+        "option1": "Parts per thousand (ppt)",
+        "option2": "Parts per million (ppm)",
+        "option3": "Percent (%)",
+        "option4": "Decibel (dB)"
+    },
+    {
+        "question": "Quảng đường của một vật di chuyển trong thời gian được gọi là gì?",
+        "option1": "Sự vận tốc",
+        "option2": "Độ gia tốc",
+        "option3": "Sự gia tốc",
+        "option4": "Đường bao"
+    },
+    {
+        "question": "Định luật nào mô tả sự tương tác giữa hai điện tích điện trường?",
+        "option1": "Định luật Coulomb",
+        "option2": "Định luật Newton",
+        "option3": "Định luật Faraday",
+        "option4": "Định luật Ohm"
+    },
+    {
+        "question": "Tốc độ âm thanh trong không khí có giá trị xấp xỉ bao nhiêu?",
+        "option1": "343 m/s",
+        "option2": "300 m/s",
+        "option3": "500 m/s",
+        "option4": "200 m/s"
+    },
+    {
+        "question": "Từ nào dùng để mô tả sự khuếch tán tự nhiên của hạt nhỏ trong dung dịch?",
+        "option1": "Brownian motion",
+        "option2": "Newton's Law",
+        "option3": "Avogadro's Law",
+        "option4": "Coulomb's Law"
+    },
+    {
+        "question": "Trong lĩnh vực nhiệt động lực học, định luật nào nói rằng không có thứ gì có thể đạt đến nhiệt độ tuyệt đối (0 Kelvin)?",
+        "option1": "Định luật thứ hai của nhiệt động lực học",
+        "option2": "Định luật thứ nhất của nhiệt động lực học",
+        "option3": "Định luật thứ ba của nhiệt động lực học",
+        "option4": "Định luật thứ tư của nhiệt động lực học"
+    },
+    {
+        "question": "Từ nào dùng để mô tả sự mất năng lượng từ một hệ thống?",
+        "option1": "Entropy",
+        "option2": "Enthalpy",
+        "option3": "Temperature",
+        "option4": "Volume"
+    },
+    {
+        "question": "Công thức nào dùng để tính năng lượng của một hệ thống trong vật lý hạt nhân?",
+        "option1": "E=mc^2",
+        "option2": "F=ma",
+        "option3": "E=mv^2",
+        "option4": "P=mv"
+    },
+    {
+        "question": "Từ nào dùng để mô tả độ phản xạ của ánh sáng từ một bề mặt?",
+        "option1": "Reflectivity",
+        "option2": "Translucency",
+        "option3": "Opacity",
+        "option4": "Luminosity"
+    },
+    {
+        "question": "Quảng đường của một vật di chuyển trong một thời gian được gọi là gì?",
+        "option1": "Vận tốc",
+        "option2": "Gia tốc",
+        "option3": "Động năng",
+        "option4": "Đường bao"
+    },
+    {
+        "question": "Công thức nào dùng để tính áp suất trong lưu chất?",
+        "option1": "P=F/A",
+        "option2": "E=mc^2",
+        "option3": "F=ma",
+        "option4": "P=mv"
+    },
+    {
+        "question": "Trong hệ mặt trời, hành tinh nào có nguyên tử khí hiếm nhất?",
+        "option1": "Mercury",
+        "option2": "Venus",
+        "option3": "Mars",
+        "option4": "Jupiter"
+    },
+    {
+        "question": "Mặt trời phát ra năng lượng chủ yếu từ quá trình nào?",
+        "option1": "Tức nhiệt hạt nhân",
+        "option2": "Phản ứng hạt nhân",
+        "option3": "Tạo ra nguyên tử hydro",
+        "option4": "Tạo ra nguyên tử oxi"
+    },
+    {
+        "question": "Đơn vị nào dùng để đo độ mạnh của một nguồn sáng?",
+        "option1": "Lumen",
+        "option2": "Watt",
+        "option3": "Ampere",
+        "option4": "Volt"
+    },
+    {
+        "question": "Từ nào dùng để mô tả độ dẫn điện của một vật liệu?",
+        "option1": "Conductivity",
+        "option2": "Density",
+        "option3": "Refractivity",
+        "option4": "Transmissivity"
+    },
+    {
+        "question": "Trong vật lý hạt nhân, nguyên tử gồm những phần tử nào?",
+        "option1": "Proton, Neutron, Electron",
+        "option2": "Proton, Neutron",
+        "option3": "Proton, Electron",
+        "option4": "Electron, Neutron"
+    },
+    {
+        "question": "Sức cản quang là hiện tượng gì?",
+        "option1": "Hiện tượng ánh sáng bị gây ra bởi vật chất",
+        "option2": "Hiện tượng ánh sáng bị tán phản",
+        "option3": "Hiện tượng ánh sáng bị lệch khỏi hướng đi ban đầu",
+        "option4": "Hiện tượng ánh sáng không thể xuyên qua vật chất"
+    },
+    {
+        "question": "Trong quá trình nhiễm xạ, gì sẽ xảy ra?",
+        "option1": "Phát ra ánh sáng hoặc nhiệt",
+        "option2": "Tia ion hóa",
+        "option3": "Phân rã vật chất thành các phần tử nhỏ hơn",
+        "option4": "Tạo ra nguyên tử mới"
+    },
+    {
+        "question": "Tính năng gì của vật liệu quang kỹ thuật giúp nó chịu được sự biến đổi nhiệt độ mà không thay đổi hình dạng?",
+        "option1": "Coefficient of thermal expansion",
+        "option2": "Refractive index",
+        "option3": "Transmissivity",
+        "option4": "Reflectivity"
+    },
+    {
+        "question": "Dòng điện được tạo ra bởi sự chuyển động của điện tử gọi là gì?",
+        "option1": "Electric current",
+        "option2": "Magnetic field",
+        "option3": "Voltage",
+        "option4": "Resistance"
+    },
+    {
+        "question": "Tại sao mặt trăng có thể gây ra các hiện tượng triều?",
+        "option1": "Do tác động của trọng lực",
+        "option2": "Do sự quay quanh trục của trái đất",
+        "option3": "Do áp suất khí quyển",
+        "option4": "Do tác động của mặt trời"
+    },
+    {
+        "question": "Đơn vị nào được sử dụng để đo khả năng phản xạ của một vật liệu?",
+        "option1": "Reflectivity index",
+        "option2": "Conductivity index",
+        "option3": "Transmissivity index",
+        "option4": "Refractivity index"
+    },
+    {
+        "question": "Mô-men lực là gì?",
+        "option1": "Sức xoay được áp dụng lên một vật thể",
+        "option2": "Lực tác động vào một vật thể",
+        "option3": "Tốc độ của một vật thể",
+        "option4": "Khả năng phản ứng của một vật thể"
+    },
+    {
+        "question": "Trong lĩnh vực vật lý hạt nhân, định luật nào nói rằng năng lượng không thể được tạo ra hoặc tiêu hao, mà chỉ có thể chuyển đổi từ một dạng sang dạng khác?",
+        "option1": "Định luật bảo toàn năng lượng",
+        "option2": "Định luật bảo toàn khối lượng",
+        "option3": "Định luật Coulomb",
+        "option4": "Định luật Ohm"
+    },
+    {
+        "question": "Tốc độ ánh sáng trong chân không có giá trị xấp xỉ bao nhiêu?",
+        "option1": "299,792,458 m/s",
+        "option2": "343 m/s",
+        "option3": "300,000 km/s",
+        "option4": "1,000,000 km/s"
+    },
+    {
+        "question": "Tốc độ âm thanh phụ thuộc vào điều gì?",
+        "option1": "Nhiệt độ và loại chất lỏng hoặc khí",
+        "option2": "Khối lượng của vật chất",
+        "option3": "Áp suất không khí",
+        "option4": "Mô-men lực của vật chất"
+    }
+]
+    

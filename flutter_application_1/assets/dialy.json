@@ -1,0 +1,213 @@
+[
+    {
+        "question": "Biển Đông là biển phụ của đại dương nào?",
+        "option1": "Thái Bình Dương",
+        "option2": "Đại Tây Dương",
+        "option3": "Ấn Độ Dương",
+        "option4": "Bắc Băng Dương"
+    },
+    {
+        "question": "Nước nào được gọi là 'xứ sở mặt trời mọc'?",
+        "option1": "Nhật Bản",
+        "option2": "Hàn Quốc",
+        "option3": "Trung Quốc",
+        "option4": "Việt Nam"
+    },
+    {
+        "question": "Núi nào là núi cao nhất thế giới?",
+        "option1": "Núi Everest",
+        "option2": "Núi Kilimanjaro",
+        "option3": "Núi Fuji",
+        "option4": "Núi Phú Sĩ"
+    },
+    {
+        "question": "Đảo nào được gọi là 'đảo ngọc'?",
+        "option1": "Đảo Phú Quốc",
+        "option2": "Đảo Hòn Mun",
+        "option3": "Đảo Côn Sơn",
+        "option4": "Đảo Hòn Tre"
+    },
+    {
+        "question": "Nước nào có dân số đông nhất thế giới?",
+        "option1": "Trung Quốc",
+        "option2": "Ấn Độ",
+        "option3": "Mỹ",
+        "option4": "Indonesia"
+    },
+    {
+        "question": "Sông Amazon nằm ở châu lục nào?",
+        "option1": "Châu Mỹ",
+        "option2": "Châu Âu",
+        "option3": "Châu Phi",
+        "option4": "Châu Á"
+    },
+    {
+        "question": "Địa danh nào là thủ đô của Pháp?",
+        "option1": "Paris",
+        "option2": "London",
+        "option3": "Rome",
+        "option4": "Berlin"
+    },
+    {
+        "question": "Nước nào có diện tích lớn nhất thế giới?",
+        "option1": "Nga",
+        "option2": "Trung Quốc",
+        "option3": "Canada",
+        "option4": "Mỹ"
+    },
+    {
+        "question": "Quốc gia nào nằm ở Bắc Cực?",
+        "option1": "Nga",
+        "option2": "Canada",
+        "option3": "Mỹ",
+        "option4": "Na Uy"
+    },
+    {
+        "question": "Tỉnh nào của Việt Nam có diện tích lớn nhất?",
+        "option1": "Lai Châu",
+        "option2": "Lào Cai",
+        "option3": "Sơn La",
+        "option4": "Đắk Lắk"
+    },
+    {
+        "question": "Núi nào là núi cao nhất Việt Nam?",
+        "option1": "Núi Fansipan",
+        "option2": "Núi Bà Đen",
+        "option3": "Núi Tam Đảo",
+        "option4": "Núi Langbiang"
+    },
+    {
+        "question": "Đảo nào là đảo lớn nhất của Việt Nam?",
+        "option1": "Đảo Phú Quốc",
+        "option2": "Đảo Cát Bà",
+        "option3": "Đảo Côn Đảo",
+        "option4": "Đảo Hòn Tre"
+    },
+    {
+        "question": "Thành phố nào là thủ đô của Ý?",
+        "option1": "Rome",
+        "option2": "Milan",
+        "option3": "Venice",
+        "option4": "Naples"
+    },
+    {
+        "question": "Quốc gia nào có diện tích nhỏ nhất trên thế giới?",
+        "option1": "Vatican",
+        "option2": "Monaco",
+        "option3": "Singapore",
+        "option4": "Maldives"
+    },
+    {
+        "question": "Thành phố nào được gọi là 'thành phố không ngủ'?",
+        "option1": "New York",
+        "option2": "Tokyo",
+        "option3": "London",
+        "option4": "Paris"
+    },
+        {
+            "question": "Thành phố nào được gọi là 'thành phố của những con sông'?",
+            "option1": "Venice",
+            "option2": "Paris",
+            "option3": "London",
+            "option4": "Rome"
+        },
+        {
+            "question": "Núi Kilimanjaro nằm ở đất nước nào?",
+            "option1": "Tanzania",
+            "option2": "Kenya",
+            "option3": "Uganda",
+            "option4": "Ethiopia"
+        },
+        {
+            "question": "Quốc gia nào nằm ở Nam Mỹ?",
+            "option1": "Brazil",
+            "option2": "Mexico",
+            "option3": "Chile",
+            "option4": "Argentina"
+        },
+        {
+            "question": "Đảo nào được gọi là 'đảo hòn ngọc'?",
+            "option1": "Hawaii",
+            "option2": "Santorini",
+            "option3": "Maldives",
+            "option4": "Bora Bora"
+        },
+        {
+            "question": "Núi nào là núi cao nhất châu Phi?",
+            "option1": "Núi Kilimanjaro",
+            "option2": "Núi Atlas",
+            "option3": "Núi Everest",
+            "option4": "Núi Drakensberg"
+        },
+        {
+            "question": "Quốc gia nào được gọi là 'đất của nụ cười'?",
+            "option1": "Thái Lan",
+            "option2": "Campuchia",
+            "option3": "Indonesia",
+            "option4": "Malaysia"
+        },
+        {
+            "question": "Đại dương nào nằm ở phía tây của châu Âu?",
+            "option1": "Đại Tây Dương",
+            "option2": "Thái Bình Dương",
+            "option3": "Ấn Độ Dương",
+            "option4": "Bắc Băng Dương"
+        },
+        {
+            "question": "Thành phố nào được gọi là 'thành phố ánh sáng'?",
+            "option1": "Paris",
+            "option2": "New York",
+            "option3": "Tokyo",
+            "option4": "London"
+        },
+        {
+            "question": "Núi nào là biểu tượng của Rio de Janeiro, Brazil?",
+            "option1": "Núi Sugarloaf",
+            "option2": "Núi Everest",
+            "option3": "Núi Kilimanjaro",
+            "option4": "Núi Fuji"
+        },
+        {
+            "question": "Quốc gia nào nằm ở khu vực Đông Nam Á?",
+            "option1": "Việt Nam",
+            "option2": "Myanmar",
+            "option3": "Nepal",
+            "option4": "Pakistan"
+        },
+        {
+            "question": "Nước nào nổi tiếng với vịnh Halong?",
+            "option1": "Việt Nam",
+            "option2": "Thái Lan",
+            "option3": "Indonesia",
+            "option4": "Philippines"
+        },
+        {
+            "question": "Thành phố nào là thủ đô của Australia?",
+            "option1": "Canberra",
+            "option2": "Sydney",
+            "option3": "Melbourne",
+            "option4": "Brisbane"
+        },
+        {
+            "question": "Núi nào nằm ở biên giới giữa Nepal và Trung Quốc?",
+            "option1": "Núi Everest",
+            "option2": "Núi Kilimanjaro",
+            "option3": "Núi Fuji",
+            "option4": "Núi K2"
+        },
+        {
+            "question": "Quốc gia nào nổi tiếng với thác Niagara?",
+            "option1": "Canada",
+            "option2": "Mỹ",
+            "option3": "Mexico",
+            "option4": "Cuba"
+        },
+        {
+            "question": "Thành phố nào là thủ đô của Ấn Độ?",
+            "option1": "New Delhi",
+            "option2": "Mumbai",
+            "option3": "Kolkata",
+            "option4": "Chennai"
+        }
+    
+]

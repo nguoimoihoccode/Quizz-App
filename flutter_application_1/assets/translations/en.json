@@ -1,0 +1,101 @@
+{
+    "no_account":"Don't have an account?",
+    "true_account":"Do you already have an account?",
+    "fogot_passPage": "Enter your email and we will send you a password reset link",
+    "fogot_notification":"Password reset link sent! Check your email",
+   
+    "enter_name": "Enter User name",
+    "name": "User name",
+    "enter_email": "Enter Email Id",
+    "enter_pass": "Enter Password",
+    "pass": "Password",
+
+    "Reset_pass": "Reset Password",
+
+    "SL_Title": "Selected Language",
+    "Sub1_SL_Title": "Vietnamese",
+    "Sub2_SL_Title": "English",
+    "Sub3_SL_Title": "Chinese",
+    "Sub4_SL_Title": "Japanese",
+    "Sub5_SL_Title": "Korean",
+    "iscoming": "Evolving language",
+    "close": "Close",
+
+    "first_name": "First Name",
+    "update_infomationUser": "Account information has not been updated",
+    "your_account": "Your Account",
+    "feed_backs": "Feed Backs",
+    "_rankings": "Rankings",
+    "change_pass": "Change Password",
+    "_logout": "Logout",
+    "forgot_pass": "Forgot password",
+    "view_users": "Users Infomation",
+    "view_feedbacks": "Users FeedBacks",
+    "_signin": "Sign In",
+    "_signup": "Sign Up",
+    "find_topic":"Find Topic",
+    
+    "update_user": "Update User",
+    "pick_image": "Pick Image",
+    "last_name": "Last Name",
+    "age": "Age",
+    "address": "Address",
+    "update": "Update",
+    "_error": "Error",
+    "updateUser_success": "User information update successfully",
+    "creatUser_success": "User information create successfully",
+    "updateUser_fail": "Failed to update user information",
+    "send_cmt": "Send comments",
+    "content": "Content",
+    "send": "Send",
+    "send_success": "Sending comments successfully",
+    "content_empty": "Please enter your comment content",
+    "rankings": "Ranking by topic",
+
+    "oldpass_label": "Old password",
+    "newpass_label": "New password",
+    "new2pass_label": "Confirm new password",
+    "oldpass_empty": "Please enter old password",
+    "newpass_empty": "Please enter new password",
+    "lengthpass": "Password must have at least 6 characters",
+    "new2pass_empty": "Please confirm new password",
+    "new_same_new2_pass": "New password and confirm new password do not match",
+    "confirm": "Confirm",
+
+    "language": "Language",
+
+    "your_exam": "Your Exam",
+    "answer_sheet":"Answer Sheet",
+    "stop": "Stop",
+    "listen": "Listen",
+
+    "mark": "Mark",
+    "correct":"Correct",
+    "wrong":"Ưrong",
+    "not_answer":"Not Answer",
+    "go_home": "Go to home",
+
+    "enter_quiz_title":"Enter Quiz Title",
+    "quiz_title": "Quiz Title",
+    "enter_quiz_desc": "Enter Quiz Description",
+    "quiz_desc": "Quiz Description",
+    "create_quiz": "Create Quiz",
+
+
+    "enter_ques": "Enter Question",
+    "_ques": "Question",
+    "enter_op1": "Enter Option 1",
+    "enter_op1_correct": "Option 1 (Correct Answer)",
+    "enter_op2": "Enter Option 2",
+    "option2": "Option 2",
+    "enter_op3": "Enter Option 3",
+    "option3": "Option 3",
+    "enter_op4": "Enter Option 4",
+    "option4": "Option 4",
+    "sumbit": "Sumbit",
+    "add_ques": "Add Question"
+
+
+
+
+} 

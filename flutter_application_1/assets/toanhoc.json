@@ -1,0 +1,206 @@
+[
+    {
+        "question": "Phương trình bậc nhất có dạng là gì?",
+        "option1": "ax + b = 0",
+        "option2": "ax^2 + bx + c = 0",
+        "option3": "ax^3 + bx^2 + cx + d = 0",
+        "option4": "a/x + b = 0"
+    },
+    {
+        "question": "Kết quả của phép nhân 7 và 9 là bao nhiêu?",
+        "option1": "63",
+        "option2": "54",
+        "option3": "49",
+        "option4": "72"
+    },
+    {
+        "question": "Hình vuông có bao nhiêu cạnh?",
+        "option1": "4",
+        "option2": "5",
+        "option3": "6",
+        "option4": "3"
+    },
+    {
+        "question": "2 + 2 bằng mấy?",
+        "option1": "4",
+        "option2": "5",
+        "option3": "3",
+        "option4": "6"
+    },
+    {
+        "question": "Ai là người sáng lập ra toán học hiện đại?",
+        "option1": "Isaac Newton",
+        "option2": "Euclid",
+        "option3": "Archimedes",
+        "option4": "Albert Einstein"
+    },
+    {
+        "question": "100 chia cho 5 bằng bao nhiêu?",
+        "option1": "20",
+        "option2": "15",
+        "option3": "25",
+        "option4": "10"
+    },
+    {
+        "question": "Tích của số 8 và 7 là bao nhiêu?",
+        "option1": "56",
+        "option2": "49",
+        "option3": "64",
+        "option4": "42"
+    },
+    {
+        "question": "Trong hình vuông, tổng số đường chéo là bao nhiêu?",
+        "option1": "2",
+        "option2": "3",
+        "option3": "4",
+        "option4": "1"
+    },
+    {
+        "question": "Giai thừa của số 5 là bao nhiêu?",
+        "option1": "120",
+        "option2": "60",
+        "option3": "24",
+        "option4": "20"
+    },
+    {
+        "question": "Phân số 3/4 tương đương với phân số nào sau đây?",
+        "option1": "6/8",
+        "option2": "4/5",
+        "option3": "2/3",
+        "option4": "1/2"
+    },
+    {
+        "question": "Diện tích hình tròn được tính bằng công thức nào?",
+        "option1": "πr^2",
+        "option2": "2πr",
+        "option3": "πr",
+        "option4": "1/2πr"
+    },
+    {
+        "question": "20 là bao nhiêu phần trăm của 100?",
+        "option1": "20%",
+        "option2": "25%",
+        "option3": "15%",
+        "option4": "30%"
+    },
+    {
+        "question": "Ai là người sáng lập ra hình học phẳng?",
+        "option1": "Euclid",
+        "option2": "Isaac Newton",
+        "option3": "Archimedes",
+        "option4": "Albert Einstein"
+    },
+    {
+        "question": "Trong dãy số Fibonacci, số tiếp theo được tạo ra bằng cách làm gì?",
+        "option1": "Cộng hai số trước đó",
+        "option2": "Chia hai số trước đó",
+        "option3": "Nhân hai số trước đó",
+        "option4": "Trừ hai số trước đó"
+    },
+    {
+        "question": "Tổng của 10 và 7 là bao nhiêu?",
+        "option1": "17",
+        "option2": "16",
+        "option3": "18",
+        "option4": "15"
+    },
+        {
+            "question": "Trong hình tam giác vuông, cạnh nào là cạnh huyền?",
+            "option1": "Cạnh đối diện với góc vuông",
+            "option2": "Cạnh kề với góc vuông",
+            "option3": "Cạnh hình vuông",
+            "option4": "Cạnh hình chữ nhật"
+        },
+        {
+            "question": "Tích của 7 và 8 là bao nhiêu?",
+            "option1": "56",
+            "option2": "49",
+            "option3": "64",
+            "option4": "42"
+        },
+        {
+            "question": "Ai là người phát minh ra phép cộng?",
+            "option1": "Phythagoras",
+            "option2": "Euclid",
+            "option3": "Archimedes",
+            "option4": "Albert Einstein"
+        },
+        {
+            "question": "10 chia cho 2 bằng mấy?",
+            "option1": "5",
+            "option2": "6",
+            "option3": "4",
+            "option4": "7"
+        },
+        {
+            "question": "Diện tích hình chữ nhật được tính bằng công thức nào?",
+            "option1": "Chiều dài x chiều rộng",
+            "option2": "2πr",
+            "option3": "πr",
+            "option4": "1/2πr"
+        },
+        {
+            "question": "Ai là người sáng lập ra lý thuyết số?",
+            "option1": "Pythagoras",
+            "option2": "Euclid",
+            "option3": "Archimedes",
+            "option4": "Albert Einstein"
+        },
+        {
+            "question": "Trong dãy số Fibonacci, số tiếp theo được tạo ra bằng cách làm gì?",
+            "option1": "Cộng hai số trước đó",
+            "option2": "Chia hai số trước đó",
+            "option3": "Nhân hai số trước đó",
+            "option4": "Trừ hai số trước đó"
+        },
+        {
+            "question": "100 là bao nhiêu phần trăm của 200?",
+            "option1": "50%",
+            "option2": "60%",
+            "option3": "40%",
+            "option4": "30%"
+        },
+        {
+            "question": "Tích của 5 và 6 là bao nhiêu?",
+            "option1": "30",
+            "option2": "35",
+            "option3": "40",
+            "option4": "25"
+        },
+        {
+            "question": "Ai là người sáng lập ra hình học không gian?",
+            "option1": "Euclid",
+            "option2": "Isaac Newton",
+            "option3": "Archimedes",
+            "option4": "Albert Einstein"
+        },
+        {
+            "question": "Tổng của 15 và 9 là bao nhiêu?",
+            "option1": "24",
+            "option2": "23",
+            "option3": "25",
+            "option4": "22"
+        },
+        {
+            "question": "Vật nào dưới đây có dạng hình chữ nhật?",
+            "option1": "Bút",
+            "option2": "Quạt",
+            "option3": "Thước",
+            "option4": "Êke"
+        },
+        {
+            "question": "30 chia cho 3 bằng mấy?",
+            "option1": "10",
+            "option2": "15",
+            "option3": "20",
+            "option4": "25"
+        },
+        {
+            "question": "Ai là người sáng lập ra hình học đại số?",
+            "option1": "Descartes",
+            "option2": "Euclid",
+            "option3": "Archimedes",
+            "option4": "Albert Einstein"
+        }
+    ]
+    

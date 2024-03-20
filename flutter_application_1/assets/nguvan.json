@@ -1,0 +1,213 @@
+[
+    {
+        "question": "Tác phẩm 'Chí Phèo' là của tác giả nào?",
+        "option1": "Nam Cao",
+        "option2": "Nguyễn Du",
+        "option3": "Tô Hoài",
+        "option4": "Xuân Diệu"
+    },
+    {
+        "question": "Ai là tác giả của tác phẩm 'Truyện Kiều'?",
+        "option1": "Nguyễn Du",
+        "option2": "Nam Cao",
+        "option3": "Tô Hoài",
+        "option4": "Xuân Diệu"
+    },
+    {
+        "question": "Ai là tác giả của tác phẩm 'Số đỏ'?",
+        "option1": "Vũ Trọng Phụng",
+        "option2": "Nam Cao",
+        "option3": "Tô Hoài",
+        "option4": "Xuân Diệu"
+    },
+    {
+        "question": "Ai là tác giả của tác phẩm 'Tắt đèn'?",
+        "option1": "Nam Cao",
+        "option2": "Nguyễn Du",
+        "option3": "Tô Hoài",
+        "option4": "Xuân Diệu"
+    },
+    {
+        "question": "Tác phẩm 'Chí Phèo' thuộc thể loại gì?",
+        "option1": "Truyện ngắn",
+        "option2": "Tragedy",
+        "option3": "Truyện dài",
+        "option4": "Thơ"
+    },
+    {
+        "question": "Ai là tác giả của tác phẩm 'Lão Hạc'?",
+        "option1": "Nam Cao",
+        "option2": "Nguyễn Du",
+        "option3": "Tô Hoài",
+        "option4": "Xuân Diệu"
+    },
+    {
+        "question": "Tác phẩm 'Tắt đèn' thuộc thể loại gì?",
+        "option1": "Truyện ngắn",
+        "option2": "Tragedy",
+        "option3": "Truyện dài",
+        "option4": "Thơ"
+    },
+    {
+        "question": "Ai là tác giả của tác phẩm 'Dế mèn phiêu lưu ký'?",
+        "option1": "Tô Hoài",
+        "option2": "Nguyễn Du",
+        "option3": "Nam Cao",
+        "option4": "Xuân Diệu"
+    },
+    {
+        "question": "Tác phẩm 'Dế mèn phiêu lưu ký' thuộc thể loại gì?",
+        "option1": "Truyện dài",
+        "option2": "Thơ",
+        "option3": "Truyện ngắn",
+        "option4": "Tragedy"
+    },
+    {
+        "question": "Ai là tác giả của tác phẩm 'Truyện Kiều'?",
+        "option1": "Nguyễn Du",
+        "option2": "Nam Cao",
+        "option3": "Tô Hoài",
+        "option4": "Xuân Diệu"
+    },
+    {
+        "question": "Tác phẩm 'Số đỏ' thuộc thể loại gì?",
+        "option1": "Truyện ngắn",
+        "option2": "Tragedy",
+        "option3": "Truyện dài",
+        "option4": "Thơ"
+    },
+    {
+        "question": "Tác phẩm 'Lão Hạc' thuộc thể loại gì?",
+        "option1": "Truyện ngắn",
+        "option2": "Tragedy",
+        "option3": "Truyện dài",
+        "option4": "Thơ"
+    },
+    {
+        "question": "Ai là tác giả của tác phẩm 'Chí Phèo'?",
+        "option1": "Nam Cao",
+        "option2": "Nguyễn Du",
+        "option3": "Tô Hoài",
+        "option4": "Xuân Diệu"
+    },
+    {
+        "question": "Tác phẩm 'Chí Phèo' thuộc thể loại gì?",
+        "option1": "Truyện ngắn",
+        "option2": "Tragedy",
+        "option3": "Truyện dài",
+        "option4": "Thơ"
+    },
+    {
+        "question": "Ai là tác giả của tác phẩm 'Tắt đèn'?",
+        "option1": "Nam Cao",
+        "option2": "Nguyễn Du",
+        "option3": "Tô Hoài",
+        "option4": "Xuân Diệu"
+    },
+        {
+            "question": "Tác phẩm 'Romeo and Juliet' được viết bởi nhà văn nào?",
+            "option1": "William Shakespeare",
+            "option2": "Charles Dickens",
+            "option3": "Jane Austen",
+            "option4": "Leo Tolstoy"
+        },
+        {
+            "question": "Cuốn tiểu thuyết 'Pride and Prejudice' được viết bởi nhà văn nào?",
+            "option1": "Jane Austen",
+            "option2": "Emily Brontë",
+            "option3": "Fyodor Dostoevsky",
+            "option4": "George Orwell"
+        },
+        {
+            "question": "Ai là tác giả của 'The Great Gatsby'?",
+            "option1": "F. Scott Fitzgerald",
+            "option2": "Ernest Hemingway",
+            "option3": "Mark Twain",
+            "option4": "J.D. Salinger"
+        },
+        {
+            "question": "Tác phẩm 'To Kill a Mockingbird' được viết bởi ai?",
+            "option1": "Harper Lee",
+            "option2": "John Steinbeck",
+            "option3": "Ray Bradbury",
+            "option4": "Margaret Atwood"
+        },
+        {
+            "question": "'1984' là tác phẩm của nhà văn nào?",
+            "option1": "George Orwell",
+            "option2": "Aldous Huxley",
+            "option3": "Ray Bradbury",
+            "option4": "Kurt Vonnegut"
+        },
+        {
+            "question": "Ai là tác giả của cuốn 'Moby Dick'?",
+            "option1": "Herman Melville",
+            "option2": "Nathaniel Hawthorne",
+            "option3": "Emily Dickinson",
+            "option4": "Edgar Allan Poe"
+        },
+        {
+            "question": "Tác phẩm 'The Catcher in the Rye' được viết bởi ai?",
+            "option1": "J.D. Salinger",
+            "option2": "F. Scott Fitzgerald",
+            "option3": "Ernest Hemingway",
+            "option4": "Mark Twain"
+        },
+        {
+            "question": "Cuốn tiểu thuyết 'War and Peace' được viết bởi nhà văn nào?",
+            "option1": "Leo Tolstoy",
+            "option2": "Fyodor Dostoevsky",
+            "option3": "Anton Chekhov",
+            "option4": "Nikolai Gogol"
+        },
+        {
+            "question": "'The Lord of the Rings' là tác phẩm của nhà văn nào?",
+            "option1": "J.R.R. Tolkien",
+            "option2": "C.S. Lewis",
+            "option3": "J.K. Rowling",
+            "option4": "George R.R. Martin"
+        },
+        {
+            "question": "Tác phẩm 'The Adventures of Huckleberry Finn' được viết bởi ai?",
+            "option1": "Mark Twain",
+            "option2": "Herman Melville",
+            "option3": "Harper Lee",
+            "option4": "Emily Brontë"
+        },
+        {
+            "question": "Ai là tác giả của 'Anna Karenina'?",
+            "option1": "Leo Tolstoy",
+            "option2": "Fyodor Dostoevsky",
+            "option3": "Anton Chekhov",
+            "option4": "Nikolai Gogol"
+        },
+        {
+            "question": "'The Brothers Karamazov' là tác phẩm của nhà văn nào?",
+            "option1": "Fyodor Dostoevsky",
+            "option2": "Leo Tolstoy",
+            "option3": "Anton Chekhov",
+            "option4": "Nikolai Gogol"
+        },
+        {
+            "question": "Tác phẩm 'Don Quixote' được viết bởi ai?",
+            "option1": "Miguel de Cervantes",
+            "option2": "Gabriel García Márquez",
+            "option3": "Pablo Neruda",
+            "option4": "Jorge Luis Borges"
+        },
+        {
+            "question": "'Frankenstein' là tác phẩm của nhà văn nào?",
+            "option1": "Mary Shelley",
+            "option2": "Emily Brontë",
+            "option3": "Virginia Woolf",
+            "option4": "Charlotte Brontë"
+        },
+        {
+            "question": "Ai là tác giả của 'The Picture of Dorian Gray'?",
+            "option1": "Oscar Wilde",
+            "option2": "James Joyce",
+            "option3": "Virginia Woolf",
+            "option4": "George Orwell"
+        }
+    ]
+    

@@ -1,0 +1,213 @@
+[
+    {
+        "question": "What is the capital of the United Kingdom?",
+        "option1": "London",
+        "option2": "Paris",
+        "option3": "Berlin",
+        "option4": "Madrid"
+    },
+    {
+        "question": "Who wrote 'To Kill a Mockingbird'?",
+        "option1": "Harper Lee",
+        "option2": "Ernest Hemingway",
+        "option3": "Mark Twain",
+        "option4": "F. Scott Fitzgerald"
+    },
+    {
+        "question": "Which of the following words is a synonym for 'happy'?",
+        "option1": "Joyful",
+        "option2": "Sad",
+        "option3": "Angry",
+        "option4": "Fearful"
+    },
+    {
+        "question": "What is the past tense of the verb 'go'?",
+        "option1": "Went",
+        "option2": "Gone",
+        "option3": "Goed",
+        "option4": "Goes"
+    },
+    {
+        "question": "Who wrote the play 'Romeo and Juliet'?",
+        "option1": "William Shakespeare",
+        "option2": "Charles Dickens",
+        "option3": "Jane Austen",
+        "option4": "Leo Tolstoy"
+    },
+    {
+        "question": "Which of the following is a correct sentence?",
+        "option1": "She is swimming in the pool.",
+        "option2": "She are swimming in the pool.",
+        "option3": "She am swimming in the pool.",
+        "option4": "She be swimming in the pool."
+    },
+    {
+        "question": "What is the plural of 'child'?",
+        "option1": "Children",
+        "option2": "Childs",
+        "option3": "Childes",
+        "option4": "Child"
+    },
+    {
+        "question": "What is the opposite of 'dark'?",
+        "option1": "Light",
+        "option2": "Black",
+        "option3": "Shadow",
+        "option4": "Dim"
+    },
+    {
+        "question": "Who is the protagonist of 'The Great Gatsby'?",
+        "option1": "Jay Gatsby",
+        "option2": "Nick Carraway",
+        "option3": "Daisy Buchanan",
+        "option4": "Tom Buchanan"
+    },
+    {
+        "question": "Which of the following is a modal verb?",
+        "option1": "Can",
+        "option2": "Run",
+        "option3": "See",
+        "option4": "Jump"
+    },
+    {
+        "question": "Who is the author of 'The Catcher in the Rye'?",
+        "option1": "J.D. Salinger",
+        "option2": "F. Scott Fitzgerald",
+        "option3": "Ernest Hemingway",
+        "option4": "Mark Twain"
+    },
+    {
+        "question": "Which of the following is a preposition?",
+        "option1": "Under",
+        "option2": "Fast",
+        "option3": "Walk",
+        "option4": "Run"
+    },
+    {
+        "question": "Who wrote 'The Canterbury Tales'?",
+        "option1": "Geoffrey Chaucer",
+        "option2": "William Shakespeare",
+        "option3": "John Milton",
+        "option4": "John Donne"
+    },
+    {
+        "question": "Which of the following is an adverb?",
+        "option1": "Quickly",
+        "option2": "House",
+        "option3": "Dog",
+        "option4": "Table"
+    },
+    {
+        "question": "Who is the main character in 'Harry Potter and the Philosopher's Stone'?",
+        "option1": "Harry Potter",
+        "option2": "Ron Weasley",
+        "option3": "Hermione Granger",
+        "option4": "Albus Dumbledore"
+    },
+        {
+            "question": "What is the capital of Canada?",
+            "option1": "Ottawa",
+            "option2": "Toronto",
+            "option3": "Vancouver",
+            "option4": "Montreal"
+        },
+        {
+            "question": "Who wrote the novel 'Pride and Prejudice'?",
+            "option1": "Jane Austen",
+            "option2": "William Shakespeare",
+            "option3": "Charles Dickens",
+            "option4": "George Orwell"
+        },
+        {
+            "question": "Which planet is known as the Red Planet?",
+            "option1": "Mars",
+            "option2": "Venus",
+            "option3": "Jupiter",
+            "option4": "Saturn"
+        },
+        {
+            "question": "Who is the current President of the United States?",
+            "option1": "Joe Biden",
+            "option2": "Donald Trump",
+            "option3": "Barack Obama",
+            "option4": "George W. Bush"
+        },
+        {
+            "question": "What is the currency of Japan?",
+            "option1": "Yen",
+            "option2": "Dollar",
+            "option3": "Euro",
+            "option4": "Pound"
+        },
+        {
+            "question": "Who painted the Mona Lisa?",
+            "option1": "Leonardo da Vinci",
+            "option2": "Vincent van Gogh",
+            "option3": "Pablo Picasso",
+            "option4": "Michelangelo"
+        },
+        {
+            "question": "What is the longest river in the world?",
+            "option1": "Nile",
+            "option2": "Amazon",
+            "option3": "Yangtze",
+            "option4": "Mississippi"
+        },
+        {
+            "question": "Who wrote 'Hamlet'?",
+            "option1": "William Shakespeare",
+            "option2": "Charles Dickens",
+            "option3": "Jane Austen",
+            "option4": "Leo Tolstoy"
+        },
+        {
+            "question": "Which country is famous for kangaroos?",
+            "option1": "Australia",
+            "option2": "Canada",
+            "option3": "Brazil",
+            "option4": "India"
+        },
+        {
+            "question": "What is the chemical symbol for water?",
+            "option1": "H2O",
+            "option2": "CO2",
+            "option3": "O2",
+            "option4": "N2"
+        },
+        {
+            "question": "Who is known as the Father of Computers?",
+            "option1": "Charles Babbage",
+            "option2": "Steve Jobs",
+            "option3": "Bill Gates",
+            "option4": "Alan Turing"
+        },
+        {
+            "question": "What is the largest mammal in the world?",
+            "option1": "Blue Whale",
+            "option2": "Elephant",
+            "option3": "Giraffe",
+            "option4": "Hippopotamus"
+        },
+        {
+            "question": "Who wrote the play 'Macbeth'?",
+            "option1": "William Shakespeare",
+            "option2": "Charles Dickens",
+            "option3": "Jane Austen",
+            "option4": "Leo Tolstoy"
+        },
+        {
+            "question": "What is the tallest mountain in the world?",
+            "option1": "Mount Everest",
+            "option2": "K2",
+            "option3": "Kangchenjunga",
+            "option4": "Lhotse"
+        },
+        {
+            "question": "Who is the author of 'The Adventures of Sherlock Holmes'?",
+            "option1": "Arthur Conan Doyle",
+            "option2": "Agatha Christie",
+            "option3": "Dorothy L. Sayers",
+            "option4": "Raymond Chandler"
+        }
+    ]
+    

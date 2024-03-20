@@ -1,0 +1,212 @@
+[
+    {
+        "question": "Natri phản ứng với clo sinh ra sản phẩm nào sau đây?",
+        "option1": "${NaCl}$",
+        "option2": "${KCl}$",
+        "option3": "${NaClO}$",
+        "option4": "${NaOH}$"
+    },
+    {
+        "question": "Dung dịch chất nào sau đây không hòa tan được ${Al}({OH})_3$ ?",
+        "option1": "${BaCl}_2$",
+        "option2": "${KOH}$",
+        "option3": "${HCl}$",
+        "option4": "${HNO}_3$"
+    },
+    {
+        "question": "Ở điều kiện thường, chất nào sau đây là chất rắn?",
+        "option3": "Đimetylamin",
+        "option2": "Etylamin",
+        "option1": "Glyxin",
+        "option4": "Metylamin"
+    },
+    {
+        "question": "Cho thanh kim loại Zn vào dung dịch chất nào sau đây sẽ xảy ra hiện tượng ăn mòn điện hóa học?",
+        "option3": "${KCl}$",
+        "option2": "${HCl}$",
+        "option1": "${CuSO}_4$",
+        "option4": "${MgCl}_2$"
+    },
+    {
+        "question": "Nước cứng vĩnh cửu tác dụng với chất nào sau đây thu được kết tủa?",
+        "option2": "${NaNO}_3$",
+        "option1": "${Na}_2 {CO}_3$",
+        "option3": "${NaCl}$",
+        "option4": "${HCl}$"
+    },
+    {
+        "question": "Trong điều kiện không có oxi, sắt phản ứng với lượng dư dung dịch nào sau đây sinh ra muối sắt (III)?",
+        "option1": "${H}_2 {SO}_4$ đặc, nóng.",
+        "option2": "${HNO}_3$ đặc, nguội.",
+        "option3": "${CuSO}_4$ loãng.",
+        "option4": "HCl loãng."
+    },
+    {
+        "question": "Trong phản ứng của kim loại ${Mg}$ với khí ${O}_2$, một nguyên tử ${Mg}$ nhường bao nhiêu electron?",
+        "option4": "1",
+        "option2": "3",
+        "option3": "4",
+        "option1": "2"
+    },
+    {
+        "question": "Công thức của etyl axetat là",
+        "option2": "${CH}_3 {COOCH}_3$",
+        "option1": "${CH}_3 {COOC}_2 {H}_5$",
+        "option3": "${HCOOCH}_3$",
+        "option4": "${HCOOC}_2 {H}_5$"
+    },
+    {
+        "question": "Điện phân nóng chảy ${NaCl}$, ở catot thu được chất nào sau đây?",
+        "option3": "${HCl}$",
+        "option2": "${Cl}_2$",
+        "option1": "${Na}$",
+        "option4": "${NaOH}$"
+    },
+    {
+        "question": "Trùng hợp vinyl clorua tạo thành polime nào sau đây?",
+        "option3": "Polibutađien",
+        "option2": "Polietilen",
+        "option1": "Poli (vinyl clorua)",
+        "option4": "Policaproamit"
+    },
+    {
+        "question": "Chất nào sau đây là muối axit?",
+        "option1": "${NaHCO}_3$",
+        "option2": "${Na}_2 {SO}_4$",
+        "option3": "${Na}_2 {CO}_3$",
+        "option4": "${NaCl}$"
+    },
+    {
+        "question": "Trong công nghiệp, nhôm được sản xuất bằng phương pháp điện phân nóng chảy chất nào sau đây?",
+        "option2": "${AlCl}_3$",
+        "option1": "${Al}_2 {O}_3$",
+        "option3": "${Al}({OH})_3$",
+        "option4": "${Al}\\left({NO}_3\\right)_3$"
+    },
+    {
+        "question": "Tác nhân chủ yếu gây \"hiệu ứng nhà kính\" là do sự tăng nồng độ trong khí quyển của chất nào sau đây?",
+        "option3": "${CO}_2$",
+        "option2": "${O}_2$",
+        "option1": "${N}_2$",
+        "option4": "${H}_2$"
+    },
+    {
+        "question": "Chất nào sau đây là chất béo?",
+        "option4": "Xenlulozo",
+        "option2": "Axit stearic",
+        "option3": "Glixerol",
+        "option1": "Tristearin"
+    },
+    {
+        "question": "Kim loại nào sau đây có khối lượng riêng nhỏ nhất?",
+        "option2": "${Fe}$",
+        "option1": "${Li}$",
+        "option3": "${Pb}$",
+        "option4": "${W}$"
+    },
+    {
+        "question": "Chất nào sau đây có 2 nguyên tử cacbon trong phân tử?",
+        "option3": "Ancol propylic",
+        "option2": "Ancol metylic",
+        "option1": "Ancol etylic",
+        "option4": "Ancol butylic"
+    },
+    {
+        "question": "Chất nào sau đây là amin bậc một?",
+        "option4": "${CH}_3 {NHC}_2 {H}_5$",
+        "option2": "$\\left({CH}_3\\right)_2 {NH}$",
+        "option3": "$\\left({C}_2 {H}_5\\right)_3 {N}$",
+        "option1": "${C}_6 {H}_5 {NH}_2$"
+    },
+    {
+        "question": "Crom (III) oxit là chất rắn màu lục thẫm, được dùng tạo màu lục cho đồ sú, đồ thủy tinh. Công thức của crom (III) oxit là",
+        "option3": "${Cr}({OH})_3$",
+        "option2": "${CrO}$",
+        "option1": "${Cr}_2 {O}_3$",
+        "option4": "${CrO}_3$"
+    },
+    {
+        "question": "Kim loại nào sau đây tác dụng với ${H}_2 {O}$ (dư) tạo thành dung dịch kiềm?",
+        "option3": "${Hg}$",
+        "option2": "${Cu}$",
+        "option1": "${K}$",
+        "option4": "${Ag}$"
+    },
+    {
+        "question": "Chất nào sau đây có phản ứng tráng bạc?",
+        "option4": "Saccarozơ",
+        "option2": "Xenlulozơ",
+        "option3": "Tinh bột",
+        "option1": "Glucozơ"
+    },
+    {
+        "question": "Hòa tan hết 2.02 gam hỗn hợp gồm ${MgO}$ và ${ZnO}$ cần vừa đủ 60 ml dung dịch ${HCl}$ 1M, sau phản ứng thu được dung dịch chứa ${m}$ gam hỗn hợp muối. Giá trị của ${m}$ là",
+        "option1": "A. 3.67",
+        "option2": "B. 4.21",
+        "option3": "C. 4.15",
+        "option4": "D. 3.85"
+      },
+      {
+        "question": "Phát biểu nào sau đây đúng?",
+        "option1": "A. Trùng hợp buta-1,3-đien thu được polibuta-1,3-đien.",
+        "option2": "B. Amilopectin có cấu trúc mạch polime không phân nhánh.",
+        "option3": "C. Tơ xenlulozơ axetat và tơ visco đều là tơ tổng hợp.",
+        "option4": "D. Polistiren được điều chế bằng phản ứng trùng ngưng stiren."
+      },
+      {
+        "question": "Thí nghiệm nào sau đây không xảy ra phản ứng?",
+        "option3": "A. Cho dung dịch ${HCl}$ vào dung dịch ${NaHCO}_3$.",
+        "option2": "B. Cho dung dịch ${KHSO}_4$ vào dung dịch ${BaCl}_2$.",
+        "option1": "C. Cho thanh kim loại ${Ag}$ vào dung dịch ${FeSO}_4$.",
+        "option4": "D. Cho thanh kim loại ${Al}$ vào dung dịch ${H}_2 {SO}_4$ loãng."
+      },
+      {
+        "question": "Trong công nghiệp, saccarozơ là nguyên liệu để thủy phân thành glucozơ và fructozơ dùng trong kĩ thuật tráng gương, ruột phích. Để thu được 27 kg glucozơ cần thủy phân ${m}$ kg saccarozơ với hiệu suất phản ứng là $60%$. Giá trị của ${m}$ là",
+        "option2": "A. 25.65",
+        "option1": "B. 85.50",
+        "option3": "C. 42.75",
+        "option4": "D. 51.30"
+      },
+      {
+        "question": "Để phản ứng vừa đủ với 1.24 gam amin $X$ (no, đơn chức, mạch hở) cần 400 ml dung dịch ${HCl}$ 0.1M. Công thức phân tử của $X$ là",
+        "option1": "A. ${CH}_5 {N}$.",
+        "option2": "B. ${C}_2 {H}_7 {N}$.",
+        "option3": "C. ${C}_4 {H}_{11} {N}$.",
+        "option4": "D. ${C}_3 {H}_9 {N}$."
+      },
+      {
+        "question": "Chất $X$ được tạo thành trong cây xanh nhờ quá trình quang hợp. Thủy phân hoàn toàn ${X}$ (xúc tác axit) thu được chất $Y$. Chất $Y$ có nhiều trong quả nho chín nên còn được gọi là đường nho. Hai chất ${X}$ và ${Y}$ lần lượt là",
+        "option1": "A. Tinh bột và glucozơ.",
+        "option2": "B. Xenlulozơ và saccarozơ.",
+        "option3": "C. Xenlulozơ và fructozơ.",
+        "option4": "D. Tinh bột và saccarozơ."
+      },
+      {
+        "question": "Đốt cháy 5.4 gam kim loại ${M}$ (có hóa trị không đổi) trong 1.4 lít khí ${O}_2$ đến phản ứng hoàn toàn được chất rắn ${X}$. Hòa tan hết ${X}$ trong dung dịch ${HCl}$ dư thu được 2.24 lít khí ${H}_2$. Kim loại ${M}$ là",
+        "option4": "A. ${Al}$.",
+        "option2": "B. ${Ca}$.",
+        "option3": "C. ${Zn}$.",
+        "option1": "D. ${Mg}$."
+      },
+      {
+        "question": "Xà phòng hóa este ${X}$ có công thức phân tử ${C}_4 {H}_8 {O}_2$ bằng dung dịch ${NaOH}$ dư thu được muối ${Y}$ và ancol ${Z}$ (bậc ${II})$. Công thức cấu tạo thu gọn của ${X}$ là",
+        "option1": "A. ${HCOOCH}\\left({CH}_3\\right)_2$.",
+        "option2": "B. ${CH}_3 {CH}_2 {COOCH}_3$.",
+        "option3": "C. ${CH}_3 {COOC}_2 {H}_5$.",
+        "option4": "D. ${HCOOCH}_2 {CH}_2 {CH}_3$."
+      },
+      {
+        "question": "Cho 4 dung dịch riêng biệt: ${CuSO}_4, {FeCl}_3, {HCl}$ và ${NaOH}$. Số dung dịch có khả năng phản ứng được với kim loại Fe là",
+        "option1": "A. 3.",
+        "option2": "B. 4.",
+        "option3": "C. 2.",
+        "option4": "D. 1."
+      },
+      {
+        "question": "Thủy phân hoàn toàn 14.8 gam este đơn chức ${X}$ bằng dung dịch ${NaOH}$ dư, đun nóng, thu được 16.4 gam muối ${Y}$ và ${m}$ gam ancol ${Z}$. Giá trị của ${m}$ là",
+        "option1": "A. 6.4.",
+        "option2": "B. 4.6.",
+        "option3": "C. 3.2.",
+        "option4": "D. 9.2."
+      }
+]
